@@ -1,5 +1,6 @@
 /// <reference types="cypress" />
 
+// Dummy Line
 // Welcome to Cypress!
 //
 // This spec file contains a variety of sample tests
